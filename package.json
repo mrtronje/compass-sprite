@@ -9,7 +9,7 @@
   "author": "Gabriel Laet",
   "license": "MIT",
   "dependencies": {
-    "compass-mixins": "^0.12.7",
+    "compass-mixins": "mrtronje/compass-mixins",
     "dot": "^1.0.3",
     "glob": "^5.0.14",
     "image-size": "^0.3.5",
